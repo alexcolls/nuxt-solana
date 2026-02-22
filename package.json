@@ -30,7 +30,7 @@
   "dependencies": {
     "@nuxt/kit": "^3.6.5",
     "@solana/wallet-adapter-base": "^0.9.23",
-    "@solana/web3.js": "^1.78.4"
+    "@solana/web3.js": "^1.78.8"
   },
   "devDependencies": {
     "@nuxt/devtools": "latest",
@@ -41,7 +41,7 @@
     "@types/node": "^18.17.3",
     "changelogen": "^0.5.4",
     "eslint": "^8.46.0",
-    "nuxt": "^3.6.5",
+    "nuxt": "^3.19.0",
     "vitest": "^0.34.1"
   }
 }
